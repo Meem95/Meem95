@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+I'm Fatema Tuz Zohora, a graduate student looking for a demanding junior developer position. I have a good background in software engineering. I have a strong interest in the MERN stack and have experience developing dynamic websites with Node.js, React, Express.js, and MongoDB. My area of expertise is creating scalable backend systems and user interfaces that are responsive. I thrive at converting customer needs into effective code and creating positive team environments because I have a sharp eye for detail, excellent interpersonal communication skills, and an unwavering desire to learn new things. My commitment lies in consistently acquiring new skills and adjusting to evolving technologies. I strive to provide creative solutions that propel corporate triumph. Let's talk about how I can help with your next project when we get in touch.
 **Meem95/Meem95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
