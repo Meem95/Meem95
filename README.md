@@ -1,5 +1,5 @@
-### Hi there 👋, It's Fatema Tuz Zohora
-#### Software Engineer
+### Hello there 👋, It's Fatema Tuz Zohora
+##### Software Engineer
 ![Software Engineer](https://i.ibb.co/Z6F8tbk/5c7b53a7be1dd267f24f7559584d1345.jpg)
 
 I'm Fatema Tuz Zohora, a graduate student looking for a demanding junior developer position. I have a good background in software engineering. I have a strong interest in the MERN stack and have experience developing dynamic websites with Node.js, React, Express.js, and MongoDB. My area of expertise is creating scalable backend systems and user interfaces that are responsive. I thrive at converting customer needs into effective code and creating positive team environments because I have a sharp eye for detail, excellent interpersonal communication skills, and an unwavering desire to learn new things. My commitment lies in consistently acquiring new skills and adjusting to evolving technologies. I strive to provide creative solutions that propel corporate triumph. Let's talk about how I can help with your next project when we get in touch.
